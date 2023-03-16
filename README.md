@@ -12,7 +12,7 @@ This extension has been developed by [Benny Poensgen](https://github.com/vanWitt
 
 ## Installation
 
-The Shopware 6 plugin can be installed by downloading the latest plugin zip file from [https://github.com/what3words/shopware-w3w-plugin/releases] (https://github.com/what3words/shopware-w3w-plugin/releases) and uploading this file to your `custom/plugins` folder of your shopware project.
+The Shopware 6 plugin can be installed by downloading the latest plugin zip file from [https://github.com/what3words/shopware-w3w-plugin/releases](https://github.com/what3words/shopware-w3w-plugin/releases) and uploading this file to your `custom/plugins` folder of your shopware project.
 
 Then go to `Extensions > My extensions`
 
